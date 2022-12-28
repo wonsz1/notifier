@@ -1,0 +1,2 @@
+# notifier
+Aplikacja wysyłająca przypomnienia
